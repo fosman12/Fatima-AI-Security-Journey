@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Embarking on My AI Security Learning Journey</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="/assets/style.css">
+</head>
+<body>
+<header>
+  <h1>Embarking on My AI Security Learning Journey</h1>
+  <nav>
+    <a href="/">Home</a>
+    <a href="/about.html">About</a>
+    <a href="/blog.html">Blog</a>
+  </nav>
+</header>
+
+<main>
+  <p>Today marks the start of my deep dive into <strong>AI Security</strong> — a field at the intersection of technology, risk, and governance that is quickly becoming critical to our digital world.</p>
+
+  <h2>Why AI Security Matters</h2>
+  <ul>
+    <li><strong>Enhance trust and reliability</strong> – ensuring AI systems operate as intended.</li>
+    <li><strong>Protect sensitive data</strong> – safeguarding personal and confidential information from misuse or breaches.</li>
+    <li><strong>Prevent attacks</strong> – defending against adversarial inputs, data poisoning, and other AI-specific threats.</li>
+    <li><strong>Meet regulatory and compliance requirements</strong> – aligning with frameworks like the EU AI Act, ISO 42001, and data protection laws.</li>
+  </ul>
+
+  <h2>A Quick Primer: What Are AI and ML?</h2>
+  <p><strong>Artificial Intelligence (AI)</strong> creates systems that perform tasks we associate with human intelligence — learning from experience, understanding language, recognizing patterns, and making decisions.</p>
+  <p>Historically, AI evolved from early computing experiments into <strong>Machine Learning (ML)</strong>, fueled by the rise of <strong>big data</strong>. Unlike rule-based systems, ML models learn patterns from vast datasets, unlocking breakthroughs in <strong>deep learning</strong> and <strong>neural networks</strong>. Today, we’re seeing rapid growth in <strong>generative AI</strong> and the development of <strong>ethical AI</strong> for responsible societal integration.</p>
+
+  <h2>Key Concepts of AI</h2>
+  <p><strong>AI = Intelligence + Learning + Adaptation</strong></p>
+  <ul>
+    <li><strong>Intelligence</strong> – reasoning, problem-solving, NLP, perception, decision-making.</li>
+    <li><strong>Learning</strong> – supervised, unsupervised, reinforcement learning.</li>
+    <li><strong>Adaptation</strong> – continuous learning, feedback loops, transfer learning.</li>
+  </ul>
+
+  <h2>Types and Applications of AI (with Real-World Examples)</h2>
+  <ul>
+    <li><strong>Narrow AI</strong> – Google Translate; Spotify’s recommendation engine.</li>
+    <li><strong>Generative AI</strong> – ChatGPT; DALL·E or Midjourney.</li>
+    <li><strong>Natural Language Processing (NLP)</strong> – Siri, Alexa; Grammarly.</li>
+    <li><strong>Computer Vision</strong> – Tesla’s self-driving vision; facial recognition on phones.</li>
+    <li><strong>Reinforcement Learning</strong> – DeepMind AlphaGo; Amazon warehouse robotics.</li>
+  </ul>
+
+  <h2>The Road Ahead</h2>
+  <p>AI offers incredible opportunities, but without proper security, these same capabilities can be exploited. My goal is to build a strong foundation in <strong>AI Security</strong> — understanding how AI works, how to protect it against threats, and how to ensure compliance, ethics, and trust.</p>
+  <p>I’ll be sharing my learning journey here, starting with the <strong>Practical DevSecOps Certified AI Security Professional</strong> course, focused on real-world AI security challenges and defenses.</p>
+  <p>If you’re exploring AI or thinking about securing it, let’s connect and exchange ideas.</p>
+</main>
+
+<footer>
+  <small>© <span id="y"></span> Your Name</small>
+</footer>
+<script>document.getElementById('y').textContent = new Date().getFullYear();</script>
+</body>
+</html>
